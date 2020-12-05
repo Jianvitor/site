@@ -1,0 +1,134 @@
+/**fontes importados do Google Fonts**/
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+/**colorbody**/
+.colorbody {
+    background-color: #0A508B;
+}
+
+.hearder1-website {
+    background-color: #0A508B;
+    
+} 
+
+/**Texto H1**/
+.texth1 {
+    text-align: center;
+    font-family: 'Major Mono Display', monospace;
+    color: #0CEDEB;
+    font-size: 50px;
+}
+
+/**Texto H1200**/
+.texth200 {
+    text-align: center;
+    font-family: 'Major Mono Display', monospace;
+    color: #0CEDEB;
+    font-size: 20px;
+}
+
+/**Imagem Aberta-Full**/
+.header-website {
+    background-image: url(../website/imagens/alberta-full.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    
+}
+.content-website {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+/**Imagem Aberta-Full-200**/
+.img1 {
+    text-align: center;
+}
+
+.img2 {
+    text-align: center;
+}  
+
+.img3 {
+    text-align: center;
+}
+
+.img-website {
+    background-image: url(../website/imagens/yellowstone-full.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #0CEDEB;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.footer-website {
+    background-color: #0A508B;
+    color: #ACD1F2;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.img3-website {
+    background-image: url(../website/imagens/aurora.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #0CEDEB;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.footer3-website {
+    background-color: #0A508B;
+    color: #ACD1F2;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.btns {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/**Efeito Botão**/
+.efeito {
+    border: none;
+    color: #ACD1F2;
+    padding: 20px;
+    margin: 10px;
+    font-size: 24px;
+    line-height: 24px;
+    border-radius: 10px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+
+.efeito-1:hover {
+    background: #0A508B;
+    color: #ACD1F2;
+    box-shadow: inset 0 0 0 3px #0CEDEB;
+}
+
+.text-final {
+    text-align: center;
+    border: none;
+    color: #ACD1F2;
+    text-decoration: none;    
+}
+
+.nome-final {
+    text-align: center;
+}
