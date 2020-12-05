@@ -33,7 +33,7 @@
 
 /**Imagem Aberta-Full**/
 .header-website {
-    background-image: url(../website/imagens/alberta-full.jpg);
+    background-image: url(../site/imagens/alberta-full.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +61,7 @@
 }
 
 .img-website {
-    background-image: url(../website/imagens/yellowstone-full.jpg);
+    background-image: url(../site/imagens/yellowstone-full.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,7 +79,7 @@
 }
 
 .img3-website {
-    background-image: url(../website/imagens/aurora.jpg);
+    background-image: url(../site/imagens/aurora.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
